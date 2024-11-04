@@ -1,0 +1,14 @@
+{
+    "Id": "supermarioweb",
+    "PackPath": "supermarioweb.pck",
+    "Dependencies": [
+        "Sulayre.Lure"
+    ],
+    "Metadata": {
+        "Name": "SuperMarioWEB",
+        "Author": "MonkeyMan1242",
+        "Description": "Fish up familiar aquatic foes from Mario's past in this content mod for WEBFISHING!",
+        "Version": "1.0.0",
+        "Homepage": "https://github.com/MonkeyMan1242/SuperMarioWEB"
+    }
+}
