@@ -1,0 +1,20 @@
+item_name,item_description,catch_blurb,loot_table,tier,catch_difficulty,average_size,loot_weight,sell_value,obtain_xp,generate_worth,rare,alive
+Blooper (SMB1),Super Mario Bros.,Blub blub!,ocean,1,3,50,0.3,30,60,TRUE,FALSE,TRUE
+Blooper (SMB3),Super Mario Bros. 3,Blub blub!,ocean,1,3,50,0.3,30,60,TRUE,FALSE,TRUE
+Blurp,Super Mario World,Not a Cheep Cheep.,lake,0,1.5,50,0.65,12,40,TRUE,FALSE,TRUE
+Boss Bass,Super Mario Bros. 3,It looks hungry...,ocean,2,6,50,0.15,50,100,TRUE,TRUE,TRUE
+Red Cheep Cheep (SMB1),Super Mario Bros.,The original.,lake,0,1.5,50,0.65,12,40,TRUE,FALSE,TRUE
+Gray Cheep Cheep (SMB1),Super Mario Bros.,The forgotten Cheep Cheep color.,lake,0,1.5,50,0.65,12,40,TRUE,FALSE,TRUE
+Red Cheep Cheep (SMB3),Super Mario Bros. 3,"The original, but three times.",lake,0,1.5,50,0.65,12,40,TRUE,FALSE,TRUE
+Green Cheep Cheep (SMB3),Super Mario Bros. 3,"The original, but green.",lake,0,1.5,50,0.65,12,40,TRUE,FALSE,TRUE
+Cheep Cheep (SMW),Super Mario World,Often found flopping around on land.,lake,0,1.5,50,0.65,12,40,TRUE,FALSE,TRUE
+Spiny Cheep Cheep,Super Mario Bros. 3,Better be careful handling this one…,lake,1,2,50,0.5,18,50,TRUE,FALSE,TRUE
+Dolphin,Super Mario World,Best boy.,ocean,1,4,50,0.2,40,60,TRUE,FALSE,TRUE
+Fishbone,Super Mario World,How is this thing alive?,ocean,1,3,50,0.2,40,60,TRUE,FALSE,TRUE
+Jelectro,Super Mario Bros. 3,Better be careful handling this one…,ocean,0,2,50,0.5,18,50,TRUE,FALSE,TRUE
+Mine,Super Mario World,Better be careful handling this one…,water_trash,1,4,50,0.3,30,50,TRUE,FALSE,FALSE
+Porcupuffer,Super Mario World,It looks hungry...,lake,2,6,50,0.15,50,100,TRUE,TRUE,TRUE
+Rip Van Fish,Super Mario World,Don't wake him up!,lake,0,2,50,0.5,18,50,TRUE,FALSE,TRUE
+Torpedo Ted,Super Mario World,Better be careful handling this one…,ocean,1,4,50,0.1,50,100,TRUE,TRUE,FALSE
+Trouter,Super Mario Bros. 2,Who even are you?,lake,0,1.5,50,0.65,12,40,TRUE,FALSE,TRUE
+Urchin,Super Mario World,Better be careful handling this one…,ocean,0,3,50,0.4,16,40,TRUE,FALSE,TRUE
